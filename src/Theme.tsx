@@ -1,5 +1,8 @@
 import { StyleSheet } from "react-native";
 
+export const MyColors = {
+    primary:'#5856D6'
+}
 
 export const Styles = StyleSheet.create({
     avatarContainer:{
